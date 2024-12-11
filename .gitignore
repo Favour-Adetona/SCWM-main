@@ -1,0 +1,5 @@
+a.out
+./build
+*.o
+filemanip_app
+build/
